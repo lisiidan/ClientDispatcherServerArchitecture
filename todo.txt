@@ -2,21 +2,18 @@
 InfoAPI.java - done
 InfoImpl.java - done
 InfoServer.java - done
-InfoClient - in progress // to do getObjectReference
+InfoClient - done
 InfoClientProxy - done 
 InfoServerProxy - done
 ----------------- Math App ----------------
 MathAPI.java - done
 MathImpl.java - done
 MathServer.java - done
-MathClient.java - in progress // to do getObjectReference
+MathClient.java - done
 MathServerProxy - done
 MathClientProxy - done
 ----------------- ToyORB ------------------
-NamingServer - in progress // to add getObjectReference
+NamingServer - done
 Bridge - not needed
 Dispatcher - done
 
-additional: 
-done
-1. dynamic proxy generator or alternatives
