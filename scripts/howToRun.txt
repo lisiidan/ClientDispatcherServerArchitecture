@@ -1,0 +1,5 @@
+java -cp build ToyORB.Dispatcher
+java -cp build Info.ServerSide.InfoServer
+java -cp build Info.ClientSide.InfoClient
+java -cp build Math.ServerSide.MathServer
+java -cp build Math.ClientSide.MathClient
